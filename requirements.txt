@@ -1,6 +1,10 @@
 openai
 langchain
-chromadb
+chromadb[all]
+pysqlite3-binary
 streamlit
 beautifulsoup4
 python-dotenv
+langchain-community
+sentence-transformers
+
